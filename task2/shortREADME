@@ -1,4 +1,5 @@
 Awareness of Phishing Tactics and Email Threat Analysis Skills
+
 This analysis demonstrates key skills for identifying phishing emails, critical for cybersecurity awareness:
 Sender Verification: Checking the email address and domain against official sources to detect spoofing.
 Header Analysis: Using tools to inspect headers for authentication failures and mismatched origins.
@@ -7,6 +8,7 @@ Language Evaluation: Recognizing urgent or threatening language as a manipulatio
 Attention to Detail: Noting generic greetings or subtle cues like mismatched URLs to question legitimacy.
 
 Recommendations for Training:
+
 Employee Education: Conduct workshops using real-world phishing examples to teach header analysis, link inspection, and language evaluation.
 Simulation Exercises: Use phishing simulation tools (e.g., KnowBe4) to test employees’ ability to spot phishing emails in a controlled environment.
 Tool Familiarity: Train staff on using header analyzers and URL checkers for hands-on threat analysis.
